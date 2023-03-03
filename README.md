@@ -33,7 +33,7 @@
     <li> Strong problem-solving and analytical skills </li>
     <li> Excellent communication and teamwork abilities </li>
 </ul>
-<hr/>
+<hr />
 
 <h2>
     Experience:
@@ -57,7 +57,7 @@
     <li>Created reusable UI components and implemented responsive designs </li>
     <li>Conducted code reviews to ensure high-quality code standards were met </li>
 </ul>
-<hr/>
+<hr />
 
 <h2>
     Certifications:
@@ -65,7 +65,5 @@
 
 <p>(HTML, CSS, and Javascript for Web Developers), (Johns Hopkins University)</p>
 <li>References:<a href="https://coursera.org/verify/Q3TUNSL83S3Z">https://coursera.org/verify/Q3TUNSL83S3Z</a></li>
-<br/>
-<p>(Meta React Native Specialization), (Meta)</p>
-<li>Learning...</li>
-
+<br />
+<p>(Single page applications using React Native), (Meta)</p>
