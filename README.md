@@ -33,13 +33,14 @@
     <li> Strong problem-solving and analytical skills </li>
     <li> Excellent communication and teamwork abilities </li>
 </ul>
+<hr/>
 
 <h2>
     Experience:
 </h2>
 
 <h3>Professional JavaScript Developer</h3>
-<h4>[Ghalamchi] [Iran, Tehran] [3 Years]</h4>
+<h4>(Ghalamchi),(Iran, Tehran),(3 Years)</h4>
 <ul>
     <li>Developed and maintained web applications using JavaScript</li>
     <li>Implemented and maintained RESTful APIs</li>
@@ -49,23 +50,21 @@
 </ul>
 
 <h3>Junior React Web Developer</h3>
-<h4>[Arta] [Iran, Tehran] [+1 Years]</h4>
+<h4>(Arta_Aria),(Iran, Tehran),(+1 Years)</h4>
 <ul>
     <li>Developed web applications using React.js and Redux </li>
     <li>Collaborated with the development team to design and implement new features </li>
     <li>Created reusable UI components and implemented responsive designs </li>
     <li>Conducted code reviews to ensure high-quality code standards were met </li>
 </ul>
+<hr/>
 
 <h2>
     Certifications:
 </h2>
 
-<p>[HTML, CSS, and Javascript for Web Developers], [Johns Hopkins University]</p>
-<p>References:</p>
-<p><a href="https://coursera.org/verify/Q3TUNSL83S3Z">https://coursera.org/verify/Q3TUNSL83S3Z</a></p>
+<p>(HTML, CSS, and Javascript for Web Developers), (Johns Hopkins University)</p>
+<p>References:<a href="https://coursera.org/verify/Q3TUNSL83S3Z">https://coursera.org/verify/Q3TUNSL83S3Z</a></p>
 
-<p>[React native ], [Johns Hopkins University]</p>
-<p>References:</p>
-<p><a href="https://coursera.org/verify/Q3TUNSL83S3Z">https://coursera.org/verify/Q3TUNSL83S3Z</a></p>
-
+<p>(Meta React Native Specialization), (Meta)</p>
+<p>Learning...</p>
