@@ -64,7 +64,8 @@
 </h2>
 
 <p>(HTML, CSS, and Javascript for Web Developers), (Johns Hopkins University)</p>
-<p>References:<a href="https://coursera.org/verify/Q3TUNSL83S3Z">https://coursera.org/verify/Q3TUNSL83S3Z</a></p>
+<li>References:<a href="https://coursera.org/verify/Q3TUNSL83S3Z">https://coursera.org/verify/Q3TUNSL83S3Z</a></li>
 
 <p>(Meta React Native Specialization), (Meta)</p>
-<p>Learning...</p>
+<li>Learning...</li>
+
