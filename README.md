@@ -1,16 +1,74 @@
-### Hi there 👋
+<h1>Salar Torabi</h1>
 
-<!--
-**Hayoooola/Hayoooola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Summary:
+    I am a dedicated and detail-oriented web developer with experience in React and JavaScript . 
+    I am well-versed in front-end development, including HTML, CSS, JavaScript and TypeScript, and have a passion for creating high-quality, responsive web applications.
+    
+    Skills:
+    
+    • Strong proficiency in JavaScript, including ES6+ syntax
+    • Experience with React.js and Redux
+    • Proficient understanding of web markup, including HTML5 and CSS3
+    • Familiarity with server-side languages such as Node.js
+    • Experience with front-end build tools such as Webpack, Gulp, and Grunt
+    • Familiarity with RESTful APIs
+    • Experience with version control systems such as Git
+    • Strong problem-solving and analytical skills
+    • Excellent communication and teamwork abilities
+    • Familiarity with agile development methodologies
+    
+    Experience:
+    
+    Junior React Web Developer
+    [Company Name], [Location]
+    [Employment Period]
+    
+    • Developed web applications using React.js and Redux
+    • Collaborated with the development team to design and implement new features
+    • Created reusable UI components and implemented responsive designs
+    • Conducted code reviews to ensure high-quality code standards were met
+    • Utilized agile development methodologies to deliver projects on time and within budget
+    
+    Professional JavaScript Developer
+    [Company Name], [Location]
+    [Employment Period]
+    
+    • Developed and maintained web applications using JavaScript
+    • Implemented and maintained RESTful APIs
+    • Utilized Node.js to develop server-side functionality
+    • Collaborated with cross-functional teams to deliver projects on time and within budget
+    • Conducted code reviews to ensure high-quality code standards were met
+    • Implemented performance optimizations to improve page load times and reduce server response times
+    
+    Education:
+    
+    [Bachelor's Degree/Master's Degree], Computer Science
+    [University Name], [Location]
+    [Graduation Year]
+    
+    Certifications:
+    
+    [Certification Name], [Issuing Organization]
+    [Date]
+    
+    [Certification Name], [Issuing Organization]
+    [Date]
+    
+    References:
+    
+    Available upon request.</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <h2> 
+        Skills:
+        
+        • Strong proficiency in JavaScript, including ES6+ syntax
+        • Experience with React.js and Redux
+        • Proficient understanding of web markup, including HTML5 and CSS3
+        • Familiarity with server-side languages such as Node.js
+        • Experience with front-end build tools such as Webpack, Gulp, and Grunt
+        • Familiarity with RESTful APIs
+        • Experience with version control systems such as Git
+        • Strong problem-solving and analytical skills
+        • Excellent communication and teamwork abilities
+        • Familiarity with agile development methodologies
+    </h2>
