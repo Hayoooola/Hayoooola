@@ -6,9 +6,13 @@
 <p align="justify">
     I'm well-versed in front-end development, including HTML, CSS, JavaScript and TypeScript, and have a passion for creating high-quality, responsive web applications.
 </p>
-<h2> 
+
+<h2>
     Skills:
-    
+</h2>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+<p> 
     • Strong proficiency in JavaScript, including ES6+ syntax
     • Experience with React.js and Redux
     • Proficient understanding of web markup, including HTML5 and CSS3
@@ -19,7 +23,7 @@
     • Strong problem-solving and analytical skills
     • Excellent communication and teamwork abilities
     • Familiarity with agile development methodologies
-</h2>
+</p>
 <p>
     Experience:
     
