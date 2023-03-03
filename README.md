@@ -4,10 +4,9 @@
     I am a dedicated and detail-oriented web developer with experience in React and JavaScript . 
 </p>
 <p align="justify">
-    I am well-versed in front-end development, including HTML, CSS, JavaScript and TypeScript, and have a passion for creating high-quality, responsive web applications.
+    I'm well-versed in front-end development, including HTML, CSS, JavaScript and TypeScript, and have a passion for creating high-quality, responsive web applications.
 </p>
-
-    
+<h2> 
     Skills:
     
     • Strong proficiency in JavaScript, including ES6+ syntax
@@ -20,7 +19,8 @@
     • Strong problem-solving and analytical skills
     • Excellent communication and teamwork abilities
     • Familiarity with agile development methodologies
-    
+</h2>
+<p>
     Experience:
     
     Junior React Web Developer
@@ -60,19 +60,8 @@
     
     References:
     
-    Available upon request.</p>
+    Available upon request.
+</p>
+    
 
-    <h2> 
-        Skills:
-        
-        • Strong proficiency in JavaScript, including ES6+ syntax
-        • Experience with React.js and Redux
-        • Proficient understanding of web markup, including HTML5 and CSS3
-        • Familiarity with server-side languages such as Node.js
-        • Experience with front-end build tools such as Webpack, Gulp, and Grunt
-        • Familiarity with RESTful APIs
-        • Experience with version control systems such as Git
-        • Strong problem-solving and analytical skills
-        • Excellent communication and teamwork abilities
-        • Familiarity with agile development methodologies
-    </h2>
+
