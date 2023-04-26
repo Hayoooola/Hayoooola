@@ -1,7 +1,7 @@
 <h1>Salar Torabi</h1>
 
 <p align="justify">
-    I am a dedicated and detail-oriented web developer with experience in React and JavaScript .
+    I am a Front-end web developer with experience in React and JavaScript.
 </p>
 <p align="justify">
     I'm well-versed in front-end development, including HTML, CSS, JavaScript and TypeScript, and have a passion for
